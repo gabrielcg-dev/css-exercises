@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.message--odd {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.message--blue {
+  color: blue;
+  font-size: 36px;
+}
+
+.message--large {
+  font-size: 24px;
+}
+
+.message--green {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 700;
+}
