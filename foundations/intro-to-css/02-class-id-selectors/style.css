@@ -3,7 +3,7 @@
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.message--blue {
+#message--blue {
   color: blue;
   font-size: 36px;
 }
@@ -12,7 +12,7 @@
   font-size: 24px;
 }
 
-.message--green {
+#message--green {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: 700;
